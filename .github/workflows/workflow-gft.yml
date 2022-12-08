@@ -8,3 +8,15 @@ jobs:
               run: echo "Usar leite integral na GFT QA"
             - name: Pegar a farinha
               run: echo "Usar farinha Dona Benta"
+
+    misturar:
+        runs-on: ubuntu-latest
+    
+    Bater-na-batedeira:
+        runs-on: ubuntu-latest
+    UNTER-FORMA:
+        runs-on: ubuntu-latest
+    COLOCAR-MASSA:
+        runs-on: ubuntu-latest
+    FAZER-RECHEIO:
+        runs-on: ubuntu-latest
