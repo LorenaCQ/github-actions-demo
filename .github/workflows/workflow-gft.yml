@@ -19,7 +19,7 @@ jobs:
         steps:
             - name: Pegar Leite
               run: echo "Usar leite integral na GFT QA"
-    UNTER-FORMA:
+    UNTAR-FORMA:
         runs-on: ubuntu-latest
         steps:
             - name: Pegar Leite
